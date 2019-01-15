@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ArduPilot Project
 
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/ArduPilot/ardupilot?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
@@ -123,3 +124,6 @@ for reviewing patches on their specific area.  See also the list of developers w
   - ***Subsystem***: Copter SITL, Rover SITL
 - [Víctor Mayoral Vilches](https://github.com/vmayoral):
   - ***Board***: PXF, Erle-Brain 2, PXFmini
+=======
+# CFD_ardupilot
+>>>>>>> ef88c14e82be7e5a6bd739e8aa8ec8b5407bb04c
